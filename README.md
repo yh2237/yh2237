@@ -4,6 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript--F7DF1E.svg?logo=javascript&style=plastic)
 ![C](https://img.shields.io/badge/C--659AD2.svg?logo=C&style=plastic)
 ![Node.js](https://img.shields.io/badge/Node.js--339933.svg?logo=node.js&style=plastic)
+![SQLite](https://img.shields.io/badge/SQLite--90D4F4.svg?logo=sqlite&style=plastic)
 ![Linux](https://img.shields.io/badge/Linux--FCC624.svg?logo=linux&style=plastic)
 ![Proxmox VE](https://img.shields.io/badge/Proxmox_VE--DE6D00.svg?logo=proxmox&style=plastic)
 ...etc
