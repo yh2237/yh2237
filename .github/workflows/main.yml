@@ -11,8 +11,8 @@ jobs:
   purge:
     runs-on: ubuntu-latest
     steps:
-      - uses: koki-develop/hub-purge-action@v1
+      - uses: koki-develop/hub-purge-action@v1.0.3
         with:
           repository: koki-develop/koki-develop
           branch: main
-          path: path/to/README.md
+          path: README.md
